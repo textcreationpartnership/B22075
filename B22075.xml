@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders, votes, and declarations, agreed upon by the high Court of Parliament, this present moneth of January for the peace and safety of the Kingdome, the propagation of the Gospell, the honour of the King, the priviledge of Parliament, and the liberty of the subject : and for the protection of such who are faithfull in this service.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22075</idno><idno type="EEBO-CITATION">12136937</idno>
+  <idno type="VID">197002</idno>
+  <idno type="EEBO-PROQUEST">2240960982</idno>
+  
+            <idno type="STC">Wing E1761</idno>
+            <idno type="OCLC">12136937</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22075)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197002)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 242:E86, no 17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders, votes, and declarations, agreed upon by the high Court of Parliament, this present moneth of January for the peace and safety of the Kingdome, the propagation of the Gospell, the honour of the King, the priviledge of Parliament, and the liberty of the subject : and for the protection of such who are faithfull in this service.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>... Printed for T. Wright,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Ian. 27, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197002:1"/>
+            <pb facs="tcp:197002:1"/>
+            <p> ORDERS, Votes, and Declarations, Agreed upon by the high Court of Parliament, this present Moneth of January: For the peace and safety of the Kingdome, the propaga<g ref="char:EOLhyphen"/>tion of the Gospell, the honour of the King, the Privi<g ref="char:EOLhyphen"/>ledge of Parliament, and the Liberty of the Subject: And for the protection of such who are faithfull in this service.</p>
+            <figure>
+               <figDesc>coat of arms of England, 1642</figDesc>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+            </figure>
+            <p>LONDON, Ian. 27. Printed for T. WRIGHT.</p>
+         </div>
+      </front>
+      <body>
+         <div type="orders">
+            <pb n="2" facs="tcp:197002:2"/>
+            <head>ORDERS AGREED ON BY The High Court of PARLIAMENT, since the first of January last, 1642.</head>
+            <p n="1">1 <seg rend="decorInit">T</seg>He House of Commons taking into se<g ref="char:EOLhyphen"/>rious consideration the cruelty of the Cavaliers in Hertfordshire, in killing, robbing and plundering divers well affected people, agreed upon a Decla<g ref="char:EOLhyphen"/>ration, to desire all well-affected per<g ref="char:EOLhyphen"/>sons of the County of Hertford, and other Counties adjoyning, to raise all such Forces of horse and Foot as they can make, and march with them to <hi>Alisbu<g ref="char:EOLhyphen"/>ry</hi> in the County of <hi>Buckingham,</hi> or to such other places as they shall be directed, to joyne with the Parliaments For<g ref="char:EOLhyphen"/>ces, for defence of themselves, their estates, and the true Protestant Religion, and for suppressing the Forces at <hi>Brill.</hi> and all their adherents, notorious enemies to the King and Kingdome.</p>
+            <p n="2">2 The House of Commons agreed upon some alterati<g ref="char:EOLhyphen"/>ons in the Bishops Bill, and other Bills, that His Majesty is desired to give his royall assent unto.</p>
+            <p n="3">3 There have been some complaints made to the Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="3" facs="tcp:197002:2"/> of some abuses committed by those that have seized upon horses for the service of the Parlirment, and at a con<g ref="char:EOLhyphen"/>ference therupon, it was agreed, that none should seize up<g ref="char:EOLhyphen"/>on any Houses under any such pretence, without a Warrant from the close Committe, and that an Entry should be made of the names of such Persons, as for the time being, shall seize upon any Horses for the service aforesaid.</p>
+            <p n="4">4. The House having been informed that <hi>Lambeth-</hi>House is full of Prisoners, it was ordered that the Lord <hi>Peters</hi> his House in <hi>Aldersgate-</hi>streete, should be made a Prison, and that part of the prisoners which are at <hi>Lambetb</hi> should be sent thither.</p>
+            <p n="5">5. The Lords and Commons in Parliament, having re<g ref="char:EOLhyphen"/>nounced the agreement of Newtralty assented lately unto by the County of <hi>Cheshire,</hi> and declared that it is a thiug ve<g ref="char:EOLhyphen"/>ry prejudiciall and dangerous to the whole Kingdome, that any one County should stand as Newter, and withdraw themselves from the assistance of the rest, a considerable number of Forces are to goe into that County, to disannull that agreement.</p>
+            <p n="6">6. Whereas His Majesty hath set forth and commanded to be published in the County of <hi>Chester,</hi> divers printed pa<g ref="char:EOLhyphen"/>pers, in the forme of Proclamations, whereby Sir <hi>William Brereton</hi> Barronet, a person wel-affected to the publique, is without Processe or Judgement, proclaimed Traytor, who hath lawfully performed his duty in assisting the Parliament and opposing those wicked Councelors, and Cavaliers a<g ref="char:EOLhyphen"/>bout the King, which endeavour the destruction of our Re<g ref="char:EOLhyphen"/>ligion, and desolation of this Land.</p>
+            <p>The Lords and Commons in Parliament doe declare, that the said printed papers in the forme of Proclamations, and the publishing thereof, are against the Lawes of the
+<pb n="2" facs="tcp:197002:3"/> Kingdome; and that such persons as have beene, or here<g ref="char:EOLhyphen"/>after shall be proclaimed Traytors by the said printed pa<g ref="char:EOLhyphen"/>pers, or any other of the like nature, shall be protected by the power and Authority of Parliament, from any damage or prejudice to their persons, ot estates, by reason or colour of any such printed paper, or Proclamations heretofore pub<g ref="char:EOLhyphen"/>lished, or shall be hereafter published, or contrived against them, and the said Lords and Commons doe heereby strict<g ref="char:EOLhyphen"/>ly forbid the publishing of any such printed paper, or pro<g ref="char:EOLhyphen"/>clamations, and doe authorize and require all Officers, and other his Majesties good Subjects, to apprehend and bring in safe custody to the Parliament, and to seize their Goods, and profit of their Lands, to be accomptable for the same to both Houses of Parliament, all such persons as have already published, or which shall heareafter publish any such printed papers, or Proclamations, to the end that they may receive due punishment for their offences.</p>
+            <p n="7">7. The House of Commons agreed upon a Commission for the Earl of <hi>Warwicke,</hi> to take order for the betrer guard of the Sea, to prevent forreigne invasion, and that himselfe should be desired in person to attend the Navy to that pur<g ref="char:EOLhyphen"/>pose.</p>
+            <p n="8">8. They agreed upon a Commission for the Lord <hi>Willough<g ref="char:EOLhyphen"/>by</hi> of <hi>Parham</hi> to have power to raise Forces in <hi>Lincolneshire,</hi> to persue and suppresse the Earle of <hi>Newcastles</hi> Army of papists in <hi>Newarke</hi> upon <hi>Trent,</hi> and other parts thereabouts.</p>
+            <p n="9">9. It was Ordered; that the <hi>Cavaliers</hi> taken at <hi>Chichester,</hi> some should be sent to <hi>Windsor-Castle,</hi> and to other Prisons abroad.</p>
+            <p n="10">10 The Commons agreed upon an Order, that no ship<g ref="char:EOLhyphen"/>ping going to <hi>Newcastle</hi> should carry any corn thither, nor
+<pb n="3" facs="tcp:197002:3"/> bring any coales from thence, untill such time as the towne shall declare themselves for the King and Parliament, and free themselves from the Earle of <hi>Newcastles</hi> garrison-soul<g ref="char:EOLhyphen"/>diers; and that if any ships should go contrary to this Or<g ref="char:EOLhyphen"/>der, from the first of February next, their ships and lading shalbe seized upon &amp; disposed by authority of Parliament.</p>
+            <p n="11">11 The Commons drew up a Bill for clearing the Earle of <hi>Manchester,</hi> and the other five Members of the House of Commons.</p>
+            <p n="12">12 It was agreed upon by the Commons that the Colle<g ref="char:EOLhyphen"/>ctors of the Custome-House should be removed from their places for some complaints made against them, for that they disobeyed the Ordinance of Parliament for the receipt of Customes, upon occasion of a late Proclamation in his Majesties name against the same.</p>
+            <p n="13">13 That others be appointed in their rooms, that no pre<g ref="char:EOLhyphen"/>judice be done to the Commonwealth by the same.</p>
+            <p n="14">14. That a Declaration be set forth to the Kingdome, to this effect, shewing the present necessity of this Kingdome, caused and dayly multiplied by the traiterous and bloody Counsells and attempts of those pernitious and desperate Counsellors still about the King, and protected by him; while they more and more manifest their implacable enmi<g ref="char:EOLhyphen"/>ty to our Religion, the Parliament, and peace of all his Ma<g ref="char:EOLhyphen"/>jesties good subjects and Dominions, have bin such, and as many as have compelled them to borrow more, and farre greater summes of money upon the publique faith (besides that which they themselves have advanced) for the preser<g ref="char:EOLhyphen"/>vation of Religion, as well as the just and undoubted Privi<g ref="char:EOLhyphen"/>ledge of Parliament, our Lawes and Liberties from most apparent destruction, then at first they intended, and to be longer in repaying the same, which they unanimously re<g ref="char:EOLhyphen"/>solve,
+<pb n="6" facs="tcp:197002:4"/> shall be fully repayed back with interrest) then here<g ref="char:EOLhyphen"/>tofore they promised. And albeit they be now preparing sundry Propositions to be humbly and speedily presented to his Majesty for an honourable and firme setling of the pub<g ref="char:EOLhyphen"/>lique peace without more effusion of Christian blood; yet no man can be ignorant of the further necessity of providing more treasure, as well for the support of the Army raised by authority of Parliament untill the King shall vouchsafe gra<g ref="char:EOLhyphen"/>ciously to condescend to our just and necessary requests, as for the full payment of all such summes of moneyes as al<g ref="char:EOLhyphen"/>ready are, or further may be due and arreare for the necessa<g ref="char:EOLhyphen"/>ry provision of Armes, Ammunition and pay of the said Army untill their disbanding and returne home to their se<g ref="char:EOLhyphen"/>verall Countries, that so they may not be occasioned tho<g ref="char:EOLhyphen"/>rough want of pay to plunder, rob or pillage by their way homewards.</p>
+            <p n="15">15. To the end that an Accomodation might the better be obteyned, the House of Commons agreed that his Ma<g ref="char:EOLhyphen"/>jesty should be desired to enter into a more neare aliance with Protestant Princes abroad, and in particular with the States of the united Provinces in <hi>Holland,</hi> that so this King<g ref="char:EOLhyphen"/>dome may be better enabled to defend her selfe against the enemies of our Religion, suppresse Popery, and assist the <hi>Palts-grave,</hi> and the Lady <hi>Elizabeth</hi> his Majesties Sister.</p>
+            <p n="16">16. Upon a complaint made against Doctor <hi>Bray</hi> who is with the King, it was ordered that three Members of the House of Commons should go to S. <hi>Martins</hi> and sequester his meanes there, and appoint an honest man in his place.</p>
+            <p n="17">17. The Parliament having received Information that there is much labouring and endeavouring for the bringing in some forraigne forces to infest this Kingdome, they have given order for the rigging and trimming of the Navy, and
+<pb n="7" facs="tcp:197002:4"/> victualling of the Ships that they may be ready to put forth to Sea, and to have a speciall care to guard <hi>Newcastle,</hi> to pre<g ref="char:EOLhyphen"/>vent forraigne aid from comming in thither, which by rea<g ref="char:EOLhyphen"/>son of stormes and tempests which are frequent neer that Harbour, during the Winter season our ships are not able to ride there.</p>
+            <p n="17">17. An Order was agreed on by the House of Com<g ref="char:EOLhyphen"/>mons for the better guard of the Tower of London, that there should be 200. men appointed by the Committee in London to attend as a constant guard upon the Tower, and to have meanes allowed them for that service, and the said men to be raised out of the new <hi>Militia</hi> in <hi>London.</hi>
+            </p>
+            <p n="19">19. There was information given to the Commons from Portsmouth that they have received information from <hi>Dun<g ref="char:EOLhyphen"/>kerke,</hi> that there are five Ships prepared in a readinesse to come for <hi>England,</hi> with Armes and Ammunition to assist the Cavaliers against the Parliament: whereupon it was or<g ref="char:EOLhyphen"/>dered that the same information should be given to the Ad<g ref="char:EOLhyphen"/>mirall, to desire his Vigilancy at Sea to intercept the said Ships.</p>
+            <p n="20">20. The Parliament having taken into consideration the great prejudice that might accurre, both to his Majestie and his subjects, if the Records of the high Court of Chansery, and othet Courts (which by his Majesties late Proclamati<g ref="char:EOLhyphen"/>on are adjourned to Oxford, where a great part of the trea<g ref="char:EOLhyphen"/>sure of the Kingdome doth consist) should be carried a<g ref="char:EOLhyphen"/>mongst the Cavaliers, they have ordered that the Records shall not be removed to <hi>Oxford.</hi>
+            </p>
+            <p n="21">21. After the Commons had spent a great deale of time in finishing the Propositions, (to be sent to his Majesty for an Accommodation of Peace) to make them ready for the Lords having received the other Propositions, agreed upon
+<pb n="6" facs="tcp:197002:5"/> before, they added one more, that his Majesty should be desired to passe a Bill for the setling of the <hi>Militia,</hi> by Land and Sea, and the securing of the Cinque Ports in such man<g ref="char:EOLhyphen"/>ner and in such hands, as shall be agreed upon by both Houses.</p>
+            <p>It is this day ordered by the Commons House of Parlia<g ref="char:EOLhyphen"/>ment; that no Carriers, Waggoners, earts, or waggons, or horses laden with any commodities whatsoever, shall be permitted hereafter to go from hence or elsewhere to <hi>Oxford</hi> or any part of the Kings Army, with any manner of provi<g ref="char:EOLhyphen"/>sions, without the speciall License and Authority of this House first had and obteined; And if they do presume not<g ref="char:EOLhyphen"/>withstanding to go or carry any thing, that then their per<g ref="char:EOLhyphen"/>sons and goods shall be seized upon, and kept in safe custo<g ref="char:EOLhyphen"/>dy till this House take further order. And Colonell <hi>Moore</hi> is to take care, that strict command be given to all the Courts of Guard to make stay of them accordingly; And to bring the persons staid, before him, to the intent they may be brought to this House: And that diligent search be made for any Moneys that may be carried or conveyed by any person to Oxford.</p>
+            <p>It is ordered by the Commons now assembled in Parlia<g ref="char:EOLhyphen"/>ment, That if the Agent or Servant to any person that bear Armes against the Parliament, shall presume hereafter to come to <hi>Westminster,</hi> or reside here about <hi>London,</hi> That he shall be forthwith apprehended as a spy, and be proceeded against accordingly; and all persons are commanded to doe their endeavour for the discovery of such persons that shall hereafter come to the Parliament House or <hi>Westminster,</hi> or any parts about <hi>London,</hi> that they may be apprehended accordingly.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
